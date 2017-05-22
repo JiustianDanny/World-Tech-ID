@@ -1604,39 +1604,8 @@ header .logo a {
 /* ------------------------------------------------------------------- 
  * header social - (_layout.css)  
  * ------------------------------------------------------------------- */
-header .social-links {
-	position: absolute;
-	right: 20px;
-	top: 78px;
-	text-align: right;
-}
-
-header .social-links ul {
-	display: block;
-	list-style: none;
-	margin: 0;
-	padding: 0;
-	font-size: 2.7rem;
-}
-
-header .social-links ul li {
-	display: inline-block;
-	padding: 0 .9rem;
-}
-
-header .social-links ul li:last-child {
-	padding-right: 0;
-}
-
-header .social-links ul li a,
-header .social-links ul li a:visited {
-	color: #FFFFFF;
-}
-
-header .social-links ul li a:hover,
-header .social-links ul li a:focus {
-	color: #057f78;
-}
+<!-- Add icon library -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 /* ------------------------------------------------------------------- 
  * responsive:
