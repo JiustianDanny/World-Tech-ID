@@ -1828,18 +1828,18 @@ header .social-links ul li a:focus {
 	right: 1em;
 }
 .main-content-tablecell h1 {
-	font-size: 4.2rem;
+	font-size: 4rem;
 	line-height: 1.143;
 	color: #FFFFFF;
-	margin-bottom: 1.2rem;
-	max-width: 600px;
+	margin-bottom: 1rem;
+	max-width: 1000px;
 	position: relative;
 }
 .main-content-tablecell p {
 	color: rgba(255, 255, 255, 0.3);
 	font-family: "roboto-regular", sans-serif;
 	font-size: 1.8rem;
-	max-width: 400px;
+	max-width: 1000px;
 }
 
 .scroll-icon {
